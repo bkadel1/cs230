@@ -1,0 +1,47 @@
+p {
+    font-size:12pt;
+    color:#fca
+}
+
+.hightlighted{
+    background-color: lightsteelblue;
+}
+
+#header{
+    font-size:25px;
+    font-weight: bold;
+}
+
+*{
+    margin: 0;
+    padding: 2ew;
+}
+
+a[target="_blank"] {
+    text-decoration: underline;
+}
+
+p em {
+    font-style:italic;
+}
+
+ul> li {
+    list-style-type: disc;
+}
+
+button:not(.disabled){
+    background-color: #ff0;
+    color: #0f0;
+}
+
+a:active {
+    color:lightgreen;
+}
+
+button:hover{
+    background-color: red;
+}
+
+tr:nth-child(even) {
+    background-color: purple;
+}
