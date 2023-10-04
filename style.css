@@ -1,14 +1,15 @@
 p {
     font-size: 12pt;
-    color: #fca
+    color: #fca;
 }
 body
 {background-color:lightseagreen;
- background-image: url('ronaldo1.jpg');
+ background-image: url('Ronaldo2.jpg');
  background-size:cover;
 }
 .button{
-    text-align: center;
+    text-align: right;
+    
 }
 
 .hightlighted {
@@ -18,6 +19,9 @@ body
 #header {
     font-size: 25px;
     font-weight: bold;
+    color : blue;
+    text-align: Center;
+
 }
 
 * {
