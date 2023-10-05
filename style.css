@@ -2,7 +2,7 @@ p {
     font-size: 14pt;
     color: black;
     text-align: center;
-    font-style:oblique;
+    font-style: oblique;
 
 }
 
@@ -12,11 +12,11 @@ body {
     background-size: cover;
 }
 
-.button{
+.button {
     text-align: right;
     color: pink;
     font-size: 20px;
-    padding:20px;
+    padding: 20px;
     text-decoration: none;
     border-radius: 20px;
 }
@@ -27,7 +27,7 @@ body {
     font-style: oblique;
     color: blue;
     text-align: Center;
-    text-decoration-line:underline;
+    text-decoration-line: underline;
     text-decoration-color: black;
 
 
@@ -47,7 +47,7 @@ p em {
 }
 
 ul>li {
-    list-style-type:square;
+    list-style-type: square;
 }
 
 button:not(.disabled) {
@@ -56,25 +56,26 @@ button:not(.disabled) {
 }
 
 button:active {
-    color:aqua;
+    color: aqua;
 }
 
 button:hover {
-    background-color:red;
+    background-color: red;
     cursor: pointer;
 }
 
 tr:nth-child(even) {
     background-color: purple;
 }
+
 .news {
     background-color: lightblue;
-    margin:5px; 
+    margin: 5px;
     padding: 5px;
-    border-radius: 5px; 
+    border-radius: 5px;
 }
-.news [lang="en"]
-{
-    background-color:rgb(208, 255, 0);
-    color:white;
+
+.news [lang="en"] {
+    background-color: rgb(208, 255, 0);
+    color: white;
 }
