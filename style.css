@@ -1,14 +1,15 @@
 p {
-    font-size: 14pt;
-    color: black;
+    font-size: 15pt;
+    color:blueviolet;
     text-align: center;
     font-style: oblique;
+    font-weight: bold;
 
 }
 
 body {
     background-color: lightseagreen;
-    background-image: url('Ronaldo2.jpg');
+    background-image: url('ronaldo1.jpg');
     background-size: cover;
 }
 
@@ -22,7 +23,7 @@ body {
 }
 
 #header {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
     font-style: oblique;
     color: blue;
@@ -73,9 +74,10 @@ tr:nth-child(even) {
     margin: 5px;
     padding: 5px;
     border-radius: 5px;
+    width:450px;
 }
 
 .news [lang="en"] {
-    background-color: rgb(208, 255, 0);
+    background-color: rgb(255, 0, 64);
     color: white;
 }
