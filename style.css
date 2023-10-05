@@ -65,9 +65,6 @@ button:hover {
     cursor: pointer;
 }
 
-tr:nth-child(even) {
-    background-color: purple;
-}
 
 .news {
     background-color: lightblue;
