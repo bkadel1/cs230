@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image:url("page6image.webp");
+    background-image:url("image6.jpg");
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -46,16 +46,14 @@ p {
     display:inline-block;
     padding: 10px 20px;
     background-color:cyan;
-    color:#fff;
+    color:hsl(0, 0%, 100%);
     text-decoration: none;
-    border: 4px solid #007bff;
-    border-radius: 30px;
-    margin-top: 5px;
-    margin-left: 1100;
-    font-size: 10px;
-    padding: 5px;
-    cursor: pointer;
-    text-align: right;
+    border: None;
+    border-radius:30px;
+    text-decoration:none;
+    cursor:zoom-in;
+    margin-top: 20px;
+    margin-left:20px
 }
 
 .button:hover {
