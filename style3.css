@@ -2,9 +2,9 @@ h1 {
     text-align: center;
   }
   body {
-    font-family: ro, sans-serif;
+    font-family:'Times New Roman', Times, serif, sans-serif;
     background-size:0cap;
-    margin: 100;
+    margin: 0;
     padding: 10;
     background-color:lightcyan;}
 
