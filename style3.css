@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+  }
+  body {
+    font-family: ro, sans-serif;
+    background-size:0cap;
+    margin: 100;
+    padding: 10;
+    background-color:lightcyan;}
+
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:lightcyan;
+    border: 1px solid #ddd;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="text"],
+  textarea,
+  select,
+  select[multiple],
+  input[type="email"],
+  input[type="range"],
+  input[type="datetime-local"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input[type="radio"],
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005bab;
+  }
+  
