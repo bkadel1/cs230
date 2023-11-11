@@ -30,7 +30,7 @@
             position: absolute;
             top: 20px;
             left: 0;
-            background-color: #f0f0f0;
+            background-color:lightgoldenrodyellow;
         }
 
         .No2 {
@@ -42,7 +42,7 @@
             position: fixed;
             top: 50px;
             right: 0;
-            background-color: #e0e0e0;
+            background-color: cyan;
         }
 
         .No3 {
@@ -54,5 +54,5 @@
             position: relative;
             top: 100px;
             right: 20px;
-            background-color: #d0d0d0;
+            background-color: lightgreen;
         }
