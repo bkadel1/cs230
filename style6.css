@@ -1,0 +1,58 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image:url("image6.jpg");
+            background-size: cover;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            border: 2px solid #ccc;
+            padding: 20px;
+            position: relative;
+        }
+
+        .No1 {
+            width: 50%;
+            padding: 20px;
+            margin: 10px;
+            border-width: 2px;
+            border-style: solid;
+            position: absolute;
+            top: 20px;
+            left: 0;
+            background-color: #f0f0f0;
+        }
+
+        .No2 {
+            width: 30%;
+            padding: 10px;
+            margin: 10px;
+            border-width: 3px;
+            border-style: dashed;
+            position: fixed;
+            top: 50px;
+            right: 0;
+            background-color: #e0e0e0;
+        }
+
+        .No3 {
+            width: 70%;
+            padding: 15px;
+            margin: 10px;
+            border-width: 4px;
+            border-style: double;
+            position: relative;
+            top: 100px;
+            right: 20px;
+            background-color: #d0d0d0;
+        }
